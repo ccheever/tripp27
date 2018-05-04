@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "trippy27",
-    "description": "This project is really great.",
+    "description": "A demo.",
+    "githubUrl": "https://github.com/ccheever/trippy27",
     "slug": "trippy27",
     "privacy": "public",
     "sdkVersion": "27.0.0",
